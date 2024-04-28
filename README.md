@@ -1,4 +1,8 @@
 # Cognizant-MiniProject
+
+Objectives 
+The main objective of this project is to automate a web scenario using JavaScript Executor in a Selenium-based framework. The scenario involves registering a user on a website, filling out a form with personal details, and handling alerts. The project will demonstrate various Selenium concepts, including page navigation, form registration, reusable method creation, alert handling, exception handling, synchronization, and test case validation.
+___________________________________________________________________________________________
 Implementation Guidelines 
 1. Implement resuable methods separately to improve more readability.
 2. Multibrowser execution-handle at least two browsers(Firefox and IE/Chrome). Optional-desired capabilities/driver setup.
